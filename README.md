@@ -1,2 +1,2 @@
-# My Rosalind Solutions ![CC-BY 4.0](https://i.creativecommons.org/l/by/4.0/80x15.png)
+# My Rosalind Solutions [![CC-BY 4.0](https://i.creativecommons.org/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
 This repo holds my solutions for Rosalind problems, which are a series of bioinformatics coding problems online. My solutions are in the R programming language.
